@@ -1,0 +1,10 @@
+{
+    "archives": {
+        "linux_amd64": {
+            "url": "terraform-provider-resty_0.0.6_linux_amd64.zip",
+            "hashes": [
+                "h1:8c6rY3WVWZsdjucU5Mdvf9+1OofIIva1NPnR4xmHMbY="
+            ]
+        }
+    }
+}
