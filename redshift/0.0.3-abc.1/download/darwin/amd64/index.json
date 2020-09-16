@@ -2,11 +2,11 @@
   "protocols": ["5.2"],
   "os": "darwin",
   "arch": "amd64",
-  "filename": "terraform-provider-redshift_v0.0.3-abc.1.darwin",
-  "download_url": "https://artifactory.abc30ops.com/artifactory/generic-local/terraform-provider-redshift_v0.0.3-abc.1.darwin",
+  "filename": "terraform-provider-redshift_0.0.3_darwin_amd64.zip",
+  "download_url": "https://crainte.github.io/terraform-provider-mirror/redshift/0.0.3-abc.1/download/darwin/amd64/terraform-provider-redshift_0.0.3_darwin_amd64.zip",
   "shasums_url": "https://crainte.github.io/terraform-provider-mirror/redshift/0.0.3-abc.1/download/terraform-provider-redshift_0.0.3_SHA256SUMS",
   "shasums_signature_url": "https://crainte.github.io/terraform-provider-mirror/redshift/0.0.3-abc.1/download/terraform-provider-redshift_0.0.3_SHA256SUMS.sig",
-  "shasum": "5c11b869287eaaa4aa9040a9d96bdd672a3da428d42643393d19a48ba26b51cd",
+  "shasum": "e2daf275f3d65ab720169200555f328b76cf25868d95c86134e2faac190c4129",
   "signing_keys": {
     "gpg_public_keys": [
       {
