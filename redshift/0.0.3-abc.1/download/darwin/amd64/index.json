@@ -6,7 +6,7 @@
   "download_url": "https://crainte.github.io/terraform-provider-mirror/redshift/0.0.3-abc.1/download/darwin/amd64/terraform-provider-redshift_0.0.3_darwin_amd64.zip",
   "shasums_url": "https://crainte.github.io/terraform-provider-mirror/redshift/0.0.3-abc.1/download/terraform-provider-redshift_0.0.3_SHA256SUMS",
   "shasums_signature_url": "https://crainte.github.io/terraform-provider-mirror/redshift/0.0.3-abc.1/download/terraform-provider-redshift_0.0.3_SHA256SUMS.sig",
-  "shasum": "e2daf275f3d65ab720169200555f328b76cf25868d95c86134e2faac190c4129",
+  "shasum": "e4be478351cfcf74aafe0883ba99b69d8e039f932b3de039dde7cc1e7aaf7b44",
   "signing_keys": {
     "gpg_public_keys": [
       {
