@@ -2,11 +2,11 @@
   "protocols": ["5.2"],
   "os": "linux",
   "arch": "amd64",
-  "filename": "terraform-provider-redshift_v0.0.3-abc.1.linux",
-  "download_url": "https://crainte.github.io/terraform-provider-mirror/redshift/0.0.3-abc.1/download/linux/amd64/terraform-provider-redshift_v0.0.3-abc.1.linux",
+  "filename": "terraform-provider-redshift_0.0.3_linux_amd64.zip",
+  "download_url": "https://crainte.github.io/terraform-provider-mirror/redshift/0.0.3-abc.1/download/linux/amd64/terraform-provider-redshift_0.0.3_linux_amd64.zip",
   "shasums_url": "https://crainte.github.io/terraform-provider-mirror/redshift/0.0.3-abc.1/download/terraform-provider-redshift_0.0.3_SHA256SUMS",
   "shasums_signature_url": "https://crainte.github.io/terraform-provider-mirror/redshift/0.0.3-abc.1/download/terraform-provider-redshift_0.0.3_SHA256SUMS.sig",
-  "shasum": "a36d85c474d55672d0776eebc3e4be308c529233f65baee75c8966aed428b176",
+  "shasum": "b49e376d0781907fb5b1ff7198f67e48b83cc7dd8f9c8a6124ba4422e01d6c38",
   "signing_keys": {
     "gpg_public_keys": [
       {
