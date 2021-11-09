@@ -3,9 +3,9 @@
   "os": "darwin",
   "arch": "amd64",
   "filename": "terraform-provider-resty_0.0.7_darwin_amd64.zip",
-  "download_url": "https://crainte.github.io/terraform-provider-mirror/resty/0.0.7/download/darwin/amd64/terraform-provider-resty_0.0.7_darwin_amd64.zip",
-  "shasums_url": "https://crainte.github.io/terraform-provider-mirror/resty/0.0.7/download/terraform-provider-resty_0.0.7_SHA256SUMS",
-  "shasums_signature_url": "https://crainte.github.io/terraform-provider-mirror/resty/0.0.7/download/terraform-provider-resty_0.0.7_SHA256SUMS.sig",
+  "download_url": "https://cryptk.github.io/terraform-provider-mirror/resty/0.0.7/download/darwin/amd64/terraform-provider-resty_0.0.7_darwin_amd64.zip",
+  "shasums_url": "https://cryptk.github.io/terraform-provider-mirror/resty/0.0.7/download/terraform-provider-resty_0.0.7_SHA256SUMS",
+  "shasums_signature_url": "https://cryptk.github.io/terraform-provider-mirror/resty/0.0.7/download/terraform-provider-resty_0.0.7_SHA256SUMS.sig",
   "shasum": "c67bb3313c28404fc691957609ae5cb2955828dd38dd6e6b317acb1480d15ae1",
   "signing_keys": {
     "gpg_public_keys": [

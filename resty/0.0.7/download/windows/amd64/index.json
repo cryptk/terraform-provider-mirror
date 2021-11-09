@@ -3,9 +3,9 @@
   "os": "windows",
   "arch": "amd64",
   "filename": "terraform-provider-resty_0.0.7_windows_amd64.zip",
-  "download_url": "https://crainte.github.io/terraform-provider-mirror/resty/0.0.7/download/windows/amd64/terraform-provider-resty_0.0.7_windows_amd64.zip",
-  "shasums_url": "https://crainte.github.io/terraform-provider-mirror/resty/0.0.7/download/terraform-provider-resty_0.0.7_SHA256SUMS",
-  "shasums_signature_url": "https://crainte.github.io/terraform-provider-mirror/resty/0.0.7/download/terraform-provider-resty_0.0.7_SHA256SUMS.sig",
+  "download_url": "https://cryptk.github.io/terraform-provider-mirror/resty/0.0.7/download/windows/amd64/terraform-provider-resty_0.0.7_windows_amd64.zip",
+  "shasums_url": "https://cryptk.github.io/terraform-provider-mirror/resty/0.0.7/download/terraform-provider-resty_0.0.7_SHA256SUMS",
+  "shasums_signature_url": "https://cryptk.github.io/terraform-provider-mirror/resty/0.0.7/download/terraform-provider-resty_0.0.7_SHA256SUMS.sig",
   "shasum": "61e8c0a2b04ea456f38ff025b6fe4d08ff9ad17f808cfcf7b1f65291df1e5c45",
   "signing_keys": {
     "gpg_public_keys": [

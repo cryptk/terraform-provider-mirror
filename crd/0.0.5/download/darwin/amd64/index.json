@@ -3,9 +3,9 @@
   "os": "darwin",
   "arch": "amd64",
   "filename": "terraform-provider-crd_0.0.5_darwin_amd64.zip",
-  "download_url": "https://crainte.github.io/terraform-provider-mirror/crd/0.0.5/download/darwin/amd64/terraform-provider-crd_0.0.5_darwin_amd64.zip",
-  "shasums_url": "https://crainte.github.io/terraform-provider-mirror/crd/0.0.5/download/terraform-provider-crd_0.0.5_SHA256SUMS",
-  "shasums_signature_url": "https://crainte.github.io/terraform-provider-mirror/crd/0.0.5/download/terraform-provider-crd_0.0.5_SHA256SUMS.sig",
+  "download_url": "https://cryptk.github.io/terraform-provider-mirror/crd/0.0.5/download/darwin/amd64/terraform-provider-crd_0.0.5_darwin_amd64.zip",
+  "shasums_url": "https://cryptk.github.io/terraform-provider-mirror/crd/0.0.5/download/terraform-provider-crd_0.0.5_SHA256SUMS",
+  "shasums_signature_url": "https://cryptk.github.io/terraform-provider-mirror/crd/0.0.5/download/terraform-provider-crd_0.0.5_SHA256SUMS.sig",
   "shasum": "6afbe4f7df43b3b463073bf9b5f9c701640b972c17dc4e48b4df780c55e59213",
   "signing_keys": {
     "gpg_public_keys": [

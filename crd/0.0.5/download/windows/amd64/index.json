@@ -3,9 +3,9 @@
   "os": "windows",
   "arch": "amd64",
   "filename": "terraform-provider-crd_0.0.5_windows_amd64.zip",
-  "download_url": "https://crainte.github.io/terraform-provider-mirror/crd/0.0.5/download/windows/amd64/terraform-provider-crd_0.0.5_windows_amd64.zip",
-  "shasums_url": "https://crainte.github.io/terraform-provider-mirror/crd/0.0.5/download/terraform-provider-crd_0.0.5_SHA256SUMS",
-  "shasums_signature_url": "https://crainte.github.io/terraform-provider-mirror/crd/0.0.5/download/terraform-provider-crd_0.0.5_SHA256SUMS.sig",
+  "download_url": "https://cryptk.github.io/terraform-provider-mirror/crd/0.0.5/download/windows/amd64/terraform-provider-crd_0.0.5_windows_amd64.zip",
+  "shasums_url": "https://cryptk.github.io/terraform-provider-mirror/crd/0.0.5/download/terraform-provider-crd_0.0.5_SHA256SUMS",
+  "shasums_signature_url": "https://cryptk.github.io/terraform-provider-mirror/crd/0.0.5/download/terraform-provider-crd_0.0.5_SHA256SUMS.sig",
   "shasum": "cd2a86ad6c23c5534aa7f768b79e30a4d8de00e2e26db8f0349550c097b8b417",
   "signing_keys": {
     "gpg_public_keys": [
